@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name             = 'ContainerWindow'
-  s.version          = '1.2'
+  s.version          = '1.3'
   s.summary          = 'ContainerWindow a second window based on window, which supports to hide into a ball.'
  
   s.homepage         = 'https://github.com/ThiagoCamila/ContainerWindow'
-  s.author           = { 'ThiagoCamila' => 'thiagocamila@fastmail.com' }
+  s.author           = { 'ThiagoCamila' => 'thiagocamila.btc@gmail.com' }
   s.source           = { :git => 'https://github.com/ThiagoCamila/ContainerWindow.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
