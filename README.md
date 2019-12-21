@@ -1,6 +1,6 @@
 # ContainerWindow
 
-[![Platform](https://img.shields.io/cocoapods/p/ContainerWindow.svg?style=flat)](https://github.com/ThiagoCamila/ContainerWindow)
+[![Platform](https://img.shields.io/cocoapods/p/ContainerWindow.svg?style=flat)]
 ![Swift](https://img.shields.io/badge/%20in-swift%205.1-orange.svg)
 
 
