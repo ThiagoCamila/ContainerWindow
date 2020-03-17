@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ContainerWindow'
-  s.version          = '1.3'
+  s.version          = '1.4'
   s.summary          = 'ContainerWindow a second window based on window, which supports to hide into a ball.'
  
   s.homepage         = 'https://github.com/ThiagoCamila/ContainerWindow'
