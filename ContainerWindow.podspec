@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ContainerWindow'
-  s.version          = '1.4'
+  s.version          = '1.4.1'
   s.summary          = 'ContainerWindow a second window based on window, which supports to hide into a ball.'
  
   s.homepage         = 'https://github.com/ThiagoCamila/ContainerWindow'
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.framework           = 'UIKit'
 
   s.license             = { :type => 'MIT', :file => 'LICENSE' }
-  s.swift_versions      = ['4.2', '5.0', '5.1']
+  s.swift_versions      = ['4.2', '5.0', '5.1', '5.2']
   s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4.2' }
   
 end
